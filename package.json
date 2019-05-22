@@ -1,0 +1,26 @@
+{
+  "name": "bittorent_client",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "bencode": "^2.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.0"
+  },
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexey-korablin/bittorent_client.git"
+  },
+  "keywords": [],
+  "author": "'Alexey_Korablin' <'Alexey_Korablin@epam.com'>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexey-korablin/bittorent_client/issues"
+  },
+  "homepage": "https://github.com/alexey-korablin/bittorent_client#readme"
+}
